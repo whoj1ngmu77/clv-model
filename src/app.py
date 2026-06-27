@@ -59,8 +59,8 @@ div[data-testid="stNumberInput"] input { background: #0a0f1e !important; border:
 
 @st.cache_data
 def load_data():
-    final = pd.read_csv('../data/processed/final_customer_segments.csv')
-    transactions = pd.read_csv('../data/processed/clean_transactions.csv', parse_dates=['InvoiceDate'])
+    final = pd.read_csv('data/processed/final_customer_segments.csv')
+    transactions = pd.read_csv('data/processed/clean_transactions.csv', parse_dates=['InvoiceDate'])
     return final, transactions
 
 final, transactions = load_data()
