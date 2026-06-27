@@ -4,7 +4,8 @@
 
 **Live Demo → [clv-intel.streamlit.app](https://clv-intel.streamlit.app)**
 
-![CLV Intelligence Dashboard](dashboard_preview.png)
+![Uploading Screenshot 2026-06-27 at 2.44.38 PM.png…]()
+
 
 ---
 
