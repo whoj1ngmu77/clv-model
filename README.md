@@ -4,7 +4,7 @@
 
 **Live Demo → [clv-intel.streamlit.app](https://clv-intel.streamlit.app)**
 
-![Uploading Screenshot 2026-06-27 at 2.44.38 PM.png…]()
+<img width="1358" height="818" alt="Screenshot 2026-06-27 at 2 45 49 PM" src="https://github.com/user-attachments/assets/94f96556-1a68-46d7-8d73-c8d9f7fe2ab2" />
 
 
 ---
